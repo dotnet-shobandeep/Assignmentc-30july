@@ -1,0 +1,6 @@
+D:\Assignment\assignment30july\AssignEnum30\AssignEnum30\bin\Debug\AssignEnum30.dll
+D:\Assignment\assignment30july\AssignEnum30\AssignEnum30\bin\Debug\AssignEnum30.pdb
+D:\Assignment\assignment30july\AssignEnum30\AssignEnum30\obj\Debug\AssignEnum30.csprojAssemblyReference.cache
+D:\Assignment\assignment30july\AssignEnum30\AssignEnum30\obj\Debug\AssignEnum30.csproj.CoreCompileInputs.cache
+D:\Assignment\assignment30july\AssignEnum30\AssignEnum30\obj\Debug\AssignEnum30.dll
+D:\Assignment\assignment30july\AssignEnum30\AssignEnum30\obj\Debug\AssignEnum30.pdb
